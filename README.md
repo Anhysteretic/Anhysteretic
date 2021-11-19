@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **Binomial-theorem/Binomial-theorem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Hello, I may or may not be a human. 
+
+### The languages I may or may not know
+
+[Python](https://img.shields.io/badge/-Python-4B8BBE?&logo=Python&logoColor=fff)
+[c]
+[txt]
