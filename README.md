@@ -22,9 +22,8 @@ Hello, I may or may not be a human.
 
 ### Fake stats?
 
-<a href="https://github.com/Binomial-theorem">
-  <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Binomial-theorem&hide=html,java&hide_title=true&hide_border=true&layout=compact&langs_count=6&theme=dracula" />
-  <img height="137px" src="https://github-readme-stats.vercel.app/api?username=Binomial-theorem&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=dracula" />
-</a>
+![Fake news:](https://github-readme-stats.vercel.app/api?username=Binomial-theorem&show_icons=true&theme=cobalt&count_private=true&hide=issues,prs)
+
+[![Free Lunch](https://github-readme-stats.vercel.app/api/top-langs/?username=Binomial-theorem&layout=compact&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
 ![](https://komarev.com/ghpvc/?username=Binomial-theorem&color=ff69b4)
