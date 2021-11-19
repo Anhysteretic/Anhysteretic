@@ -20,9 +20,15 @@ Hello, I may or may not be a human.
 ![Python](https://img.shields.io/badge/-Python-4B8BBE?&logo=Python&logoColor=fff)
 ![C](https://img.shields.io/badge/-C-888?&logo=C&logoColor=fff)
 
+### You might want:
+
+- 🍔 Free Lunch
+
+- 📰 Fake news
+
 ### Fake stats?
 
-![Fake news:](https://github-readme-stats.vercel.app/api?username=Binomial-theorem&show_icons=true&theme=cobalt,prs)
+![Fake news:](https://github-readme-stats.vercel.app/api?username=Binomial-theorem&show_icons=true&theme=cobalt&,prs)
 
 [![Free Lunch](https://github-readme-stats.vercel.app/api/top-langs/?username=Binomial-theorem&layout=compact&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
