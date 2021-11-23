@@ -13,6 +13,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<!--
+Some of the following are copied soo.....
+
+-->
+
 Hello, I may or may not be a human. 
 
 ### The languages I may or may not know
