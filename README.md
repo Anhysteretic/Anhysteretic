@@ -23,7 +23,7 @@ Hello, I may or may not be a human.
 ### The languages I may or may not know
 
 ![Python](https://img.shields.io/badge/-Python-4B8BBE?&logo=Python&logoColor=fff)
-![C](https://img.shields.io/badge/-C-888?&logo=C&logoColor=fff)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Binomial-theorem&layout=compact)](https://github.com/Binomial-theorem/github-readme-stats)
 
 ### You might want:
 
