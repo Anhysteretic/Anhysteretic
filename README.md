@@ -35,6 +35,10 @@ Hello, I may or may not be a human.
 
 ![Fake news:](https://github-readme-stats.vercel.app/api?username=Binomial-theorem&show_icons=true&theme=cobalt&,prs)
 
-[![Free Lunch](https://github-readme-stats.vercel.app/api/top-langs/?username=Binomial-theorem&layout=compact&theme=cobalt)](https://github.com/Binomial-theorem/github-readme-stats)
+<!--
+[![Free Lunch]
+-->
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Binomial-theorem&langs_count=8)](https://github.com/Binomial-theorem/github-readme-stats)
 
 ![](https://komarev.com/ghpvc/?username=Binomial-theorem&color=ff69b4)
