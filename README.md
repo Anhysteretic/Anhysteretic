@@ -39,6 +39,6 @@ Hello, I may or may not be a human.
 [![Free Lunch]
 -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Binomial-theorem&langs_count=8)](https://github.com/Binomial-theorem/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Binomial-theorem&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 ![](https://komarev.com/ghpvc/?username=Binomial-theorem&color=ff69b4)
