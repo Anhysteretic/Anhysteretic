@@ -18,15 +18,17 @@ Some of the following are copied soo.....
 
 -->
 
-### Hi there 👋, I may or may not be a human
-#### I am Binomial-theorem
-![I am Binomial-theorem](https://www.google.com/imgres?imgurl=http%3A%2F%2Fwww.nasa.gov%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2Fheic0109a.jpg&imgrefurl=https%3A%2F%2Fwww.nasa.gov%2Fimage-feature%2Fgoddard%2F2016%2Fhubble-spins-a-web-into-a-giant-red-spider-nebula&tbnid=57EUIbZQUM8UDM&vet=12ahUKEwj_1Leiqf31AhV3HzQIHXYgB8QQMygbegUIARDzAQ..i&docid=C5lEFjhYYVkXjM&w=3206&h=1785&q=nebula%20nasa&ved=2ahUKEwj_1Leiqf31AhV3HzQIHXYgB8QQMygbegUIARDzAQ)
+### Hi there �, I may or may not be a human.
+![](https://cdn.discordapp.com/attachments/928143156300623892/942490115698212924/duh.jpg)
 
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
+Do you want:
+(**Free Lunch**)
+or 
+(**Fake News**)?
 
-Skills: Python 
+Skills: Python
 
-- 🌱 I’m currently learning on how to get free lunch and fake news 
+- 🌱 I’m currently learning about how to get free lunch and fake news 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Binomial-theorem)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/15600539)  
