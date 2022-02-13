@@ -18,17 +18,15 @@ Some of the following are copied soo.....
 
 -->
 
-### Hi there, I may or may not be a human.
-![](https://cdn.discordapp.com/attachments/928143156300623892/942490115698212924/duh.jpg)
+Hello, I may or may not be a human. 
+### The languages I may or may not know
+![Python](https://img.shields.io/badge/-Python-4B8BBE?&logo=Python&logoColor=fff)
+![C](https://img.shields.io/badge/-C-888?&logo=C&logoColor=fff)
+### You might want:
+- 🍔 Free Lunch
+- 📰 Fake news
+### Fake stats?
 
-Do you want:
-(**Free Lunch**)
-or 
-(**Fake News**)?
-
-Skills: Python
-
-- 🌱 I’m currently learning about how to get free lunch and fake news 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Binomial-theorem)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/15600539)  
