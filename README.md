@@ -18,27 +18,28 @@ Some of the following are copied soo.....
 
 -->
 
-Hello, I may or may not be a human. 
+### Hi there 👋, I may or may not be a human
+#### I am Binomial-theorem
+![I am Binomial-theorem](https://www.google.com/imgres?imgurl=http%3A%2F%2Fwww.nasa.gov%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2Fheic0109a.jpg&imgrefurl=https%3A%2F%2Fwww.nasa.gov%2Fimage-feature%2Fgoddard%2F2016%2Fhubble-spins-a-web-into-a-giant-red-spider-nebula&tbnid=57EUIbZQUM8UDM&vet=12ahUKEwj_1Leiqf31AhV3HzQIHXYgB8QQMygbegUIARDzAQ..i&docid=C5lEFjhYYVkXjM&w=3206&h=1785&q=nebula%20nasa&ved=2ahUKEwj_1Leiqf31AhV3HzQIHXYgB8QQMygbegUIARDzAQ)
 
-### The languages I may or may not know
+I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
-![Python](https://img.shields.io/badge/-Python-4B8BBE?&logo=Python&logoColor=fff)
-![C](https://img.shields.io/badge/-C-888?&logo=C&logoColor=fff)
+Skills: Python 
 
-### You might want:
+- 🌱 I’m currently learning on how to get free lunch and fake news 
 
-- 🍔 Free Lunch
 
-- 📰 Fake news
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Binomial-theorem)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/15600539)  
 
-### Fake stats?
+<a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> 
 
-![Fake news:](https://github-readme-stats.vercel.app/api?username=Binomial-theorem&show_icons=true&theme=cobalt&,prs)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Binomial-theorem)](https://github.com/anuraghazra/github-readme-stats)
 
-<!--
-[![Free Lunch]
--->
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Binomial-theorem&show_icons=true)  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Binomial-theorem&langs_count=8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Binomial-theorem)  
 
-![](https://komarev.com/ghpvc/?username=Binomial-theorem&color=ff69b4)
+![GitHub metrics](https://metrics.lecoq.io/Binomial-theorem)  
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Binomial-theorem)  
+
