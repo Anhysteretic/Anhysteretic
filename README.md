@@ -18,7 +18,7 @@ Some of the following are copied soo.....
 
 -->
 
-### Hi there �, I may or may not be a human.
+### Hi there, I may or may not be a human.
 ![](https://cdn.discordapp.com/attachments/928143156300623892/942490115698212924/duh.jpg)
 
 Do you want:
