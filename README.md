@@ -1,47 +1,26 @@
-<!--
-**Binomial-theorem/Binomial-theorem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi 👋, I'm Binomial Theorem</h1>
+<h3 align="center">Microwave shushi should be a thing</h3>
 
-Here are some ideas to get you started:
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=binomial-theorem" alt="binomial-theorem" /></a> </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on **stuff**
 
-<!--
-Some of the following are copied soo.....
+- 🌱 I’m currently learning **Python**
 
--->
+- 💬 Ask me about **Free Lunch and Fake News**
 
-Hello, I may or may not be a human. 
-### The languages I may or may not know
-![Python](https://img.shields.io/badge/-Python-4B8BBE?&logo=Python&logoColor=fff)
-![C](https://img.shields.io/badge/-C-888?&logo=C&logoColor=fff)
-### You might want:
-- 🍔 Free Lunch
-- 📰 Fake news
+- ⚡ Fun fact **look behind u ;)**
 
-### BTW check my discord below ;)
-### Fake stats?
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://stackoverflow.com/users/15600539" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="15600539" height="30" width="40" /></a>
+</p>
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=binomial-theorem&show_icons=true&locale=en&layout=compact" alt="binomial-theorem" /></p>
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Binomial-theorem)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/15600539)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg' alt='discord' height='40'>](https://www.youtube.com/watch?v=xvFZjo5PgG0&ab_channel=Duran)  
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=binomial-theorem&show_icons=true&locale=en" alt="binomial-theorem" /></p>
 
-<a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Binomial-theorem)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Binomial-theorem&show_icons=true)  
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Binomial-theorem)  
-
-![GitHub metrics](https://metrics.lecoq.io/Binomial-theorem)  
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Binomial-theorem)  
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=binomial-theorem&" alt="binomial-theorem" /></p>
