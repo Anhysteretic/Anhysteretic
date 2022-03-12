@@ -77,7 +77,7 @@ Anyways, when I got the time, I will fill in this shit. Prob sometime in the nex
 <details>
     <summary> 💻 Trophy? </summary>
     <br/>
-    <p><img src="https://github-profile-trophy.vercel.app/?username=binomial-theorem&amp;theme=matrix" alt="trophy"></p>
+    <p><img align="center" src="https://github-profile-trophy.vercel.app/?username=binomial-theorem&amp;theme=matrix" alt="trophy"></p>
 </details><p>
 
 <details>
