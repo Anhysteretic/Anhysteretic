@@ -21,7 +21,6 @@ Anyways, when I got the time, I will fill in this shit. Prob sometime in the nex
 - 💬 Ask me about **Free Lunch and Fake News**
 - ⚡ Fun fact **look behind u ;)**
 
-*********************************
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=binomial-theorem&amp;show_icons=true&amp;theme=radical" alt="HEHE" width="430"></p>
 
@@ -31,7 +30,6 @@ Anyways, when I got the time, I will fill in this shit. Prob sometime in the nex
 <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a>
 </h2></p>
 
-********************************
 
 <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=binomial-theorem&theme=dark" alt="binomial-theorem" width="430"></p>
 
@@ -70,7 +68,7 @@ Anyways, when I got the time, I will fill in this shit. Prob sometime in the nex
     <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&amp;logo=amazon-aws&amp;logoColor=white" alt="AWS"></p>
 </details><p>
 
-********************************
+
 
 ## 📈 fake stats?
 
