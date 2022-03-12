@@ -12,7 +12,7 @@
 
 Anyways, when I got the time, I will fill in this shit. Prob sometime in the next 5-6 years. Also wtf are u here. I'm nobody
 
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=binomial-theorem&show_icons=true&locale=en&layout=compact&theme=radical" alt="binomial-theorem" width="330" /></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=binomial-theorem&show_icons=true&locale=en&layout=compact&theme=radical" alt="binomial-theorem" width="350" /></p>
 
 ## Boring shit:   
 
