@@ -1,18 +1,1 @@
-<h1 align="center">Hi 👋, I'm Binomial Theorem</h1>
-<h3 align="center">Microwave shushi should be a thing</h3>
-
-********************************
-
-
-<p><strong> omg </strong>
-
-This will fill in sometime in the next three years. This will fill in sometime in the next three years. This will fill in sometime in the next three years. This will fill in sometime in the next three years. This will fill in sometime in the next three years. This will fill in sometime in the next three years. This will fill in sometime in the next three years. This will fill in sometime in the next three years. This will fill in sometime in the next three years. This will fill in sometime in the next three years. This will fill in sometime in the next three years. This will fill in sometime in the next three years. This will fill in sometime in the next three years. This will fill in sometime in the next three years. This will fill in sometime in the next three years. This will fill in sometime in the next three years. 
-
-<details align="center">
-    <summary>info for you stalkers ;)</summary></P>
-    <a href="https://github.com/Binomial-theorem"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'></a>
-    <a href="https://stackoverflow.com/users/15600539"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'></a>  <a href="https://www.youtube.com/watch?v=xvFZjo5PgG0&ab_channel=Duran">
-    <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg' alt='discord' height='40'></a></P>
-    <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a></p>
-
-</details></p>
+![Metrics](https://metrics.lecoq.io/binomial-theorem?template=terminal&isocalendar=1&languages=1&code=1&lines=1&achievements=1&notable=1&projects=1&introduction=1&isocalendar.duration=full-year&languages.limit=8&languages.threshold=0%25&languages.colors=github&languages.aliases=py%2C%20C&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&projects.limit=4&projects.descriptions=false&code.lines=12&code.load=100&code.days=3&code.visibility=public&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&notable.from=organization&notable.repositories=false&notable.indepth=false&notable.types=commit&introduction.title=true&config.timezone=America%2FLos_Angeles)
