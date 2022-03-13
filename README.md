@@ -34,7 +34,6 @@ Anyways, when I got the time, I will fill in this shit. Prob sometime in the nex
 
 </h2>
 
-
 <!-- ******************************** -->
 
 <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=binomial-theorem&theme=dark" alt="binomial-theorem" width="430"></p>
