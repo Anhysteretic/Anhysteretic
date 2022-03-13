@@ -32,7 +32,7 @@ Anyways, when I got the time, I will fill in this shit. Prob sometime in the nex
 <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg' alt='discord' height='40'></a></P>
 <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a></p>
 
-</h2></p>
+</h2>
 
 
 <!-- ******************************** -->
