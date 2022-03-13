@@ -25,12 +25,14 @@ Anyways, when I got the time, I will fill in this shit. Prob sometime in the nex
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=binomial-theorem&amp;show_icons=true&amp;theme=radical" alt="HEHE" width="430"></p>
 
-<h2 align="center">info for stalkers:</h2></p>
+<h2 align="center">info for stalkers:</p> 
 
 <a href="https://github.com/Binomial-theorem"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'></a>
 <a href="https://stackoverflow.com/users/15600539"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'></a>  <a href="https://www.youtube.com/watch?v=xvFZjo5PgG0&ab_channel=Duran">
 <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg' alt='discord' height='40'></a></P>
 <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a></p>
+
+</h2></p>
 
 
 <!-- ******************************** -->
