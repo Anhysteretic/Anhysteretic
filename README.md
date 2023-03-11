@@ -14,5 +14,5 @@
 -->
 
 <div align="center">
-<p><img src="https://github-readme-stats.vercel.app/api?username=Binomial-theorem&count_private=true&theme=vue&custom_title=&">
+<p><img src="https://github-readme-stats.vercel.app/api?username=NanoDecadem&count_private=true&theme=vue&custom_title=&">
 </div>
