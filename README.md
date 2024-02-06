@@ -1,4 +1,4 @@
-<img src="images/IMG_1307.jpg" height=600 width=2000/>
+<img src="images/IMG_1307.jpg" height=250 width=1500/>
 
 # David Tian
 
