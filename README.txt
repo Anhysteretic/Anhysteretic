@@ -1,4 +1,4 @@
-David Tian
+David
 
 High School sophomore,
 
